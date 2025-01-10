@@ -27,7 +27,7 @@ How to Run
 Clone this repository to your local machine:
 bash
 Copy code
-git clone   
+git clone https://github.com/euii-ii/tinder-clone.git  
 
 Open the index.html file in your preferred web browser.
 
